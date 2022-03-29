@@ -14,7 +14,7 @@ function registerfriend() {
 addfriendtolist(fname,flast,fwht);
 printdata();  
 }
-
+//creating a function to print the datas in the table in the frontend
 function printdata() {
   var list = getfriendlist();
   var tbody = document.querySelector('#friendstable tbody');

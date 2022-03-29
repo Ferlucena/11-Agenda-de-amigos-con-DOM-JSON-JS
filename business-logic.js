@@ -21,5 +21,5 @@ function getfriendlist() {
   return addfriendtolist;
 }
 
-//creating a function to print the datas in the table in the frontend
+
 
